@@ -32,6 +32,8 @@ text
 ├── figures/                         # EDA charts + before/after makeover
 └── reports/
     └── duka_board_report.png        # one-page board report
+
+
 Engagement 1 — County education office
 Question: which learners are most at risk of poor performance, and what factors are associated with better results?
 
